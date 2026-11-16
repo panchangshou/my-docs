@@ -1,6 +1,7 @@
 # 我的技术文档
 
 欢迎访问我的个人文档网站。本网站使用 MkDocs 构建，通过 GitHub Actions 自动部署到 GitHub Pages。
+
 自动部署验证：这是我第二次推送后更新的内容。
 
 - 作者：panchangshou
